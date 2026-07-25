@@ -27,7 +27,10 @@ st.set_page_config(page_title="CE4: Fresh vs Formalin-mixed Apple", page_icon="ð
 
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model(MODEL_PATH)
+   return tf.keras.models.load_model(
+    MODEL_PATH,
+    custom_objects={'TrueDivide': tf.math.truediv, 'tf': tf}
+)
 
 
 def preprocess_image(image: Image.Image):
