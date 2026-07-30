@@ -30,7 +30,7 @@ Streamlit web application.
 ```
 ├── app.py                  # Streamlit application
 ├── train_model.py          # Model training script (run in Google Colab)
-├── ce4_apple_model.h5      # Trained model (add after training)
+├── ce4_apple_model.keras      # Trained model (add after training)
 ├── requirements.txt        # Python dependencies
 ├── report.md               # Project report
 └── README.md
