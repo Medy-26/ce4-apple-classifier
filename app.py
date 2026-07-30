@@ -12,12 +12,8 @@ import tensorflow as tf
 import numpy as np
 from PIL import Image
 
-# -----------------------------------------------------------------
-# IMPORTANT: This must match the class_names order printed at the end
-# of train_model.py (Cell 13). Example: ['formalin_apple', 'fresh_apple']
-# Edit this list to match YOUR training output exactly, in the same order.
-# -----------------------------------------------------------------
-CLASS_NAMES = ["formalin_apple", "fresh_apple"]  # <-- CONFIRM/EDIT THIS
+
+CLASS_NAMES = ["formalin_apple", "fresh_apple"]  
 
 MODEL_PATH = "ce4_apple_model.h5"
 IMG_SIZE = (224, 224)
