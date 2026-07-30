@@ -34,7 +34,6 @@ def preprocess_image(image: Image.Image):
     image = image.resize(IMG_SIZE)
     img_array = tf.keras.utils.img_to_array(image)
     img_array = tf.expand_dims(img_array, 0)  # create batch axis
-    img_array = tf.keras.applications.mobilenet_v2.preprocess_input(img_array)
     return img_array
 
 
