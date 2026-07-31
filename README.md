@@ -10,7 +10,7 @@ transfer learning, to classify apple images as either **Fresh** or
 Streamlit web application.
 
 ## Live App
-🔗 **[Add your deployed Streamlit URL here once deployed]**
+🔗 **[(https://ce4-apple-classifier-od7r8ktrebqm5np3jhscfo.streamlit.app/)]**
 
 ## Dataset
 - **Source:** FruitVision — A Benchmark Dataset for Fresh, Rotten, and
