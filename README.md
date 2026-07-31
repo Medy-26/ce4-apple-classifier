@@ -62,7 +62,7 @@ directly to this GitHub repository.
 | AniekanAbasi Linus| 23/EG/CE/081| aniekanlinus59 | researched for dataset |
 | Abikpa , Joshua Gospel| 23/EG/CE/031 | joshua360-lgtm | Report writing |
 | Anyim Divine Odinaka| 23/EG/CE/001 | anyimdivineodinaka| model taining |
-
+| UTIP FAVOUR UWEM | 23/EG/CE/011 | utipfavour0-beep| Report writing |
 ## Course Learning Outcomes Addressed
 - **CLO5:** Designed, trained, and evaluated a CNN (transfer learning) using
   TensorFlow/Keras for image data.
