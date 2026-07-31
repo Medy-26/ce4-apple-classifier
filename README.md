@@ -60,7 +60,7 @@ directly to this GitHub repository.
 | Archibong,Ekemini John| _23/EG/CE/101_| _ekemini756-wq_| App development |
 | Robert Samuel Ukpong|23/EG/CE/041 |SammueL234 | Uploading the model |
 | AniekanAbasi Linus| 23/EG/CE/081| aniekanlinus59 | researched for dataset |
-| ... | ... | ... | ... |
+| Abikpa , Joshua Gospel| 23/EG/CE/031 | joshua360-lgtm | Report writing |
 
 ## Course Learning Outcomes Addressed
 - **CLO5:** Designed, trained, and evaluated a CNN (transfer learning) using
