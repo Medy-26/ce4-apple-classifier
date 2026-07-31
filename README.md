@@ -53,7 +53,7 @@ Deployed on Streamlit Community Cloud (https://share.streamlit.io), connected
 directly to this GitHub repository.
 
 ## Team Members
-| Nyong Unwana Eno| 23/EG/CE/091|nyongunwana2-ctrl |Troubleshooting  |
+| Names| Reg Numbers | Usernames | Contribution  |
 |------|---------------------|------------------|---------------|
 | Ukpong,Medara Godson| _23/EG/CE/051_ | _Medy-26_ | Group Leader |
 | Umohntuen, Mfoniso Amanam| _23/EG/CE/021_ | _mfon-iso_ | Model training |
@@ -63,6 +63,7 @@ directly to this GitHub repository.
 | Abikpa , Joshua Gospel| 23/EG/CE/031 | joshua360-lgtm | Report writing |
 | Anyim Divine Odinaka| 23/EG/CE/001 | anyimdivineodinaka| model taining |
 | UTIP FAVOUR UWEM | 23/EG/CE/011 | utipfavour0-beep| Report writing |
+| Nyong Unwana Eno | 23/EG/CE/091 | nyongunwana2-ctrl | Troubleshooting
 ## Course Learning Outcomes Addressed
 - **CLO5:** Designed, trained, and evaluated a CNN (transfer learning) using
   TensorFlow/Keras for image data.
