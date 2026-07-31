@@ -61,6 +61,7 @@ directly to this GitHub repository.
 | Robert Samuel Ukpong|23/EG/CE/041 |SammueL234 | Uploading the model |
 | AniekanAbasi Linus| 23/EG/CE/081| aniekanlinus59 | researched for dataset |
 | Abikpa , Joshua Gospel| 23/EG/CE/031 | joshua360-lgtm | Report writing |
+| Anyim Divine Odinaka| 23/EG/CE/001 | anyimdivineodinaka| model taining |
 
 ## Course Learning Outcomes Addressed
 - **CLO5:** Designed, trained, and evaluated a CNN (transfer learning) using
