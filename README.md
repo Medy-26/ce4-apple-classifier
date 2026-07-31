@@ -58,7 +58,7 @@ directly to this GitHub repository.
 | Ukpong,Medara Godson| _23/EG/CE/051_ | _Medy-26_ | Group Leader |
 | Umohntuen, Mfoniso Amanam| _23/EG/CE/021_ | _mfon-iso_ | Model training |
 | Archibong,Ekemini John| _23/EG/CE/101_| _ekemini756-wq_| App development |
-| _Add_ | _Add_ | _Add_ | Deployment |
+| Robert Samuel Ukpong|23/EG/CE/041 |SammueL234 | Uploading the model |
 | _Add_ | _Add_ | _Add_ | Documentation |
 | ... | ... | ... | ... |
 
