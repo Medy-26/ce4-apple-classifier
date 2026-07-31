@@ -56,7 +56,7 @@ directly to this GitHub repository.
 | Name | Registration Number | GitHub Username | Contribution |
 |------|---------------------|------------------|---------------|
 | Ukpong,Medara Godson| _23/EG/CE/051_ | _Medy-26_ | Group Leader |
-| _Add_ | _Add_ | _Add_ | Model training |
+| Umohntuen, Mfoniso Amanam| _23/EG/CE/021_ | _mfon-iso_ | Model training |
 | _Add_ | _Add_ | _Add_ | App development |
 | _Add_ | _Add_ | _Add_ | Deployment |
 | _Add_ | _Add_ | _Add_ | Documentation |
