@@ -53,7 +53,7 @@ Deployed on Streamlit Community Cloud (https://share.streamlit.io), connected
 directly to this GitHub repository.
 
 ## Team Members
-| Name | Registration Number | GitHub Username | Contribution |
+| Nyong Unwana Eno| 23/EG/CE/091|nyongunwana2-ctrl |Troubleshooting  |
 |------|---------------------|------------------|---------------|
 | Ukpong,Medara Godson| _23/EG/CE/051_ | _Medy-26_ | Group Leader |
 | Umohntuen, Mfoniso Amanam| _23/EG/CE/021_ | _mfon-iso_ | Model training |
