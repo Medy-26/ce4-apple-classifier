@@ -55,7 +55,8 @@ directly to this GitHub repository.
 ## Team Members
 | Name | Registration Number | GitHub Username | Contribution |
 |------|---------------------|------------------|---------------|
-| _Add_ | _Add_ | _Add_ | Data preparation |
+| _Ukpong,Medara Godson
+_ | _23/EG/CE/051_ | _Medy-26_ | Group Leader |
 | _Add_ | _Add_ | _Add_ | Model training |
 | _Add_ | _Add_ | _Add_ | App development |
 | _Add_ | _Add_ | _Add_ | Deployment |
