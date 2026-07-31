@@ -59,7 +59,7 @@ directly to this GitHub repository.
 | Umohntuen, Mfoniso Amanam| _23/EG/CE/021_ | _mfon-iso_ | Model training |
 | Archibong,Ekemini John| _23/EG/CE/101_| _ekemini756-wq_| App development |
 | Robert Samuel Ukpong|23/EG/CE/041 |SammueL234 | Uploading the model |
-| _Add_ | _Add_ | _Add_ | Documentation |
+| AniekanAbasi Linus| 23/EG/CE/081| aniekanlinus59 | researched for dataset |
 | ... | ... | ... | ... |
 
 ## Course Learning Outcomes Addressed
