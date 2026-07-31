@@ -63,6 +63,7 @@ directly to this GitHub repository.
 | Abikpa , Joshua Gospel| 23/EG/CE/031 | joshua360-lgtm | Report writing |
 | Anyim Divine Odinaka| 23/EG/CE/001 | anyimdivineodinaka| model taining |
 | UTIP FAVOUR UWEM | 23/EG/CE/011 | utipfavour0-beep| Report writing |
+  | BEN PRAISE MFON | 23/EG/CE/121 | bennie99| Dataset sourcing |
 | Nyong Unwana Eno | 23/EG/CE/091 | nyongunwana2-ctrl | Troubleshooting
 ## Course Learning Outcomes Addressed
 - **CLO5:** Designed, trained, and evaluated a CNN (transfer learning) using
